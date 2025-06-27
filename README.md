@@ -15,6 +15,6 @@ Welcome to the **Learning ML Concepts** library — a beginner-friendly toolkit 
   - Decision Trees, KNN, Naive Bayes
   - Clustering, Dimensionality Reduction
   - Model evaluation & metrics
-- 🧱 Built with popular libraries: `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `numpy`
+- 🧱 Built with popular libraries: `scikit-learn`, `pandas`, `matplotlib`, `scipy`, `numpy`
 
 ---
